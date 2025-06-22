@@ -16,13 +16,13 @@ public class ButtonsDesp : MonoBehaviour
     {
         transform.GetChild(indexCurrentModel).gameObject.SetActive(false);
         int newIndex = indexCurrentModel + index;
-        if (newIndex<1)
+        if (newIndex<0)
         {
             newIndex = modelsCount - 1;
         }
         else if (newIndex > modelsCount - 1)
         {
-            newIndex = 1;
+            newIndex = 0;
         }
         GameObject newModel = transform.GetChild(newIndex).gameObject;
         newModel.SetActive(true);
