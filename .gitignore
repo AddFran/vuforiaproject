@@ -32,3 +32,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.sln.iml
+
+*.keystore
+*.jks
+*.key
