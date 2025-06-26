@@ -94,7 +94,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 225.6
-    height: 500.8
+    height: 424
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
@@ -118,9 +118,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 500.8
+    y: 424
     width: 1172.8
-    height: 216
+    height: 292.8
   m_MinSize: {x: 231, y: 276}
   m_MaxSize: {x: 10001, y: 10026}
   m_ActualView: {fileID: 12}
@@ -246,7 +246,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1172.8
-    height: 500.8
+    height: 424
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
@@ -270,7 +270,7 @@ MonoBehaviour:
     x: 225.6
     y: 0
     width: 947.2001
-    height: 500.8
+    height: 424
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 15}
@@ -301,9 +301,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 524.8
+    y: 503.2
     width: 1171.8
-    height: 190
+    height: 266.8
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/FacultadMeca
+    - Assets/Resources/FacultadElec
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,16 +336,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Resources/FacultadMeca
+  - Assets/Resources/FacultadElec
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity\Proyectos\My project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 58}
-    m_SelectedIDs: 78c10000
-    m_LastClickedID: 49528
-    m_ExpandedIDs: 000000000ec1000010c1000012c1000014c1000016c10000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 76c10000
+    m_LastClickedID: 49526
+    m_ExpandedIDs: 0000000010c1000012c1000014c1000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000ec1000010c1000012c1000014c1000016c10000
+    m_ExpandedIDs: 0000000010c1000012c1000014c1000016c1000018c10000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -402,7 +402,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000086a80000fab0000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -453,8 +453,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1173.8
-    y: 24
+    x: 1172.8
+    y: 79.200005
     width: 362.19995
     height: 690.8
   m_SerializedDataModeController:
@@ -503,9 +503,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
+    y: 79.200005
     width: 224.6
-    height: 474.8
+    height: 398
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -522,21 +522,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: aad1ffffc2d1ffffe6e4ffff0ce5ffff1cfbffff
+      m_ExpandedIDs: c818ffffe018ffffce2cffffe82cffff664bffff1a56ffff3256ffff5069ffff6a69ffffe49cfffffc9cffff1eb0ffff3eb0ffffc2c0ffffdac0fffffcd3ffff1cd4ffff46e6ffff1cfbffff00c2000022c20000a8c30000fcd7000024d80000fcdc000024dd0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: LogoElectronica (2)
+        m_OriginalName: LogoElectronica (2)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -49740
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 4}
@@ -568,10 +568,10 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 226.6
-    y: 24
+    x: 225.6
+    y: 79.200005
     width: 945.2001
-    height: 474.8
+    height: 398
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -944,9 +944,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.13652506, y: -0.0012599193, z: 0.013719395}
+    m_Target: {x: -0.049846657, y: 0.0139054805, z: -1.8023201}
     speed: 2
-    m_Value: {x: -0.13652506, y: -0.0012599193, z: 0.013719395}
+    m_Value: {x: -0.049846657, y: 0.0139054805, z: -1.8023201}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -992,13 +992,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2508888, y: 0.64718354, z: -0.23925057, w: 0.67905253}
+    m_Target: {x: 0.10467945, y: 0.7929699, z: -0.14234085, w: 0.583265}
     speed: 2
-    m_Value: {x: 0.2508888, y: 0.64718354, z: -0.23925056, w: 0.6790525}
+    m_Value: {x: 0.10466804, y: 0.7928835, z: -0.14232534, w: 0.58320147}
   m_Size:
-    m_Target: 0.29928112
+    m_Target: 0.6395474
     speed: 2
-    m_Value: 0.29928112
+    m_Value: 0.6395474
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1126,7 +1126,7 @@ MonoBehaviour:
       height: 363.03998
     m_MinimalGUI: 1
   m_defaultScale: 0.26261574
-  m_LastWindowPixelSize: {x: 945.2001, y: 474.8}
+  m_LastWindowPixelSize: {x: 1181.5001, y: 593.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000

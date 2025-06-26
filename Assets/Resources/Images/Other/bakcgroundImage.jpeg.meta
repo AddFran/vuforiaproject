@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4bfdf084aa3f65247a3c52c8cad8e469
+guid: 9e2e007ede9ce0544b8c00fada428e1a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,23 +110,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fondo_0
+      name: bakcgroundImage_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1536
+        width: 830
+        height: 1206
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e058ef579dc346459573ac27b23c5a6
-      internalID: -1515485032
+      spriteID: 9b27183b2fe30aa40ab3b26030f717a5
+      internalID: -905020404
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9dd0b4b57e5647548bf676ae25106509
+    spriteID: 392ca2c0b2d264c40994c0d88e7e57ab
     internalID: 0
     vertices: []
     indices: 
@@ -145,7 +145,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fondo_0: -1515485032
+      bakcgroundImage_0: -905020404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

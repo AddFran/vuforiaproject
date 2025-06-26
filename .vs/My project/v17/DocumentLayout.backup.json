@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Unity\\Proyectos\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity\\proyectos\\my project\\assets\\scripts\\menu\\audioback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\audioback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity\\proyectos\\my project\\assets\\scripts\\modelsript\\buttonsdesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modelsript\\buttonsdesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,28 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AudioBack.cs",
+              "DocumentMoniker": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\Menu\\AudioBack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\AudioBack.cs",
+              "ToolTip": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\Menu\\AudioBack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\AudioBack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:03:17.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ButtonsDesp.cs",
               "DocumentMoniker": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
               "ToolTip": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
               "RelativeToolTip": "Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBQwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T21:08:49.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ButtonsDesp.cs",
               "DocumentMoniker": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\ButtonsDesp.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonsDesp.cs",
@@ -58,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lit.shader",
               "DocumentMoniker": "D:\\Unity\\Proyectos\\My project\\Library\\PackageCache\\com.unity.render-pipelines.universal@87d5294b44e1\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@87d5294b44e1\\Shaders\\Lit.shader",
@@ -66,12 +79,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@87d5294b44e1\\Shaders\\Lit.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-27T14:56:47.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T14:56:47.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MenuSystem.cs",
               "DocumentMoniker": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\Menu\\MenuSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MenuSystem.cs",
