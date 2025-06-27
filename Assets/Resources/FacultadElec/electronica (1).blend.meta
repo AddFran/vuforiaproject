@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 5b64f41af0069a54f96bb74289c18e74
+guid: 2e0b3f2d3a8e6924e800a857489c42a4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ventana
-    second: {fileID: -7280866889036411497, guid: 2c454b2fbd5bf134a8336d92ee7ad10b, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

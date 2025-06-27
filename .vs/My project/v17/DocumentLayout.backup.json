@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\audioback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity\\proyectos\\my project\\assets\\scripts\\modelsript\\buttonsdesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\My project\\assets\\scripts\\modelsript\\buttonsdesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modelsript\\buttonsdesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\AudioBack.cs",
               "ToolTip": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\Menu\\AudioBack.cs",
               "RelativeToolTip": "Assets\\Scripts\\Menu\\AudioBack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T19:03:17.409Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBQwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T21:08:49.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T21:08:49.742Z"
             },
             {
               "$type": "Document",

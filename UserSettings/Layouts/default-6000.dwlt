@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 363.19995
     height: 716.8
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/FacultadElec
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,16 +336,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Resources/FacultadElec
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity\Proyectos\My project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 76c10000
-    m_LastClickedID: 49526
-    m_ExpandedIDs: 0000000010c1000012c1000014c1000000ca9a3b
+    scrollPos: {x: 0, y: 60}
+    m_SelectedIDs: 90c20000
+    m_LastClickedID: 49808
+    m_ExpandedIDs: 000000002ec2000030c200008ec2000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000010c1000012c1000014c1000016c1000018c10000
+    m_ExpandedIDs: 000000002ec2000030c20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -522,21 +522,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c818ffffe018ffffce2cffffe82cffff664bffff1a56ffff3256ffff5069ffff6a69ffffe49cfffffc9cffff1eb0ffff3eb0ffffc2c0ffffdac0fffffcd3ffff1cd4ffff46e6ffff1cfbffff00c2000022c20000a8c30000fcd7000024d80000fcdc000024dd0000
+      m_ExpandedIDs: ae1affffa023ffffb823ffffee37ffff0838ffffb442ffffcc42ffff0257ffff2057ffff3062ffff4862ffff7e76ffff9c76ffff3082ffff4882ffff7e96ffff9c96ffff8aa1ffffa2a1ffffd8b5fffff6b5ffff54bdffff1cfbffff02ce00002ace0000b6e20000b6e70000e6e70000aeec0000caec0000e6ec000016ed000016f2000046f20000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: LogoElectronica (2)
-        m_OriginalName: LogoElectronica (2)
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -49740
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 4}
@@ -944,9 +944,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.049846657, y: 0.0139054805, z: -1.8023201}
+    m_Target: {x: 842.79895, y: 1130.8827, z: -464.92514}
     speed: 2
-    m_Value: {x: -0.049846657, y: 0.0139054805, z: -1.8023201}
+    m_Value: {x: 842.79895, y: 1130.8827, z: -464.92514}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -992,13 +992,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.10467945, y: 0.7929699, z: -0.14234085, w: 0.583265}
+    m_Target: {x: 0.12587851, y: 0.22471912, z: -0.029290458, w: 0.9658444}
     speed: 2
-    m_Value: {x: 0.10466804, y: 0.7928835, z: -0.14232534, w: 0.58320147}
+    m_Value: {x: 0.124715805, y: 0.22474766, z: -0.029019903, w: 0.965967}
   m_Size:
-    m_Target: 0.6395474
+    m_Target: 1083.5347
     speed: 2
-    m_Value: 0.6395474
+    m_Value: 1083.5347
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1074,7 +1074,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1080, y: 2160}
+  m_TargetSize: {x: 945.2001, y: 453.8}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1089,10 +1089,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -432
-    m_HBaseRangeMax: 432
-    m_VBaseRangeMin: -864
-    m_VBaseRangeMax: 864
+    m_HBaseRangeMin: -378.08005
+    m_HBaseRangeMax: 378.08005
+    m_VBaseRangeMin: -181.52
+    m_VBaseRangeMax: 181.52
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1125,7 +1125,7 @@ MonoBehaviour:
       width: 756.16003
       height: 363.03998
     m_MinimalGUI: 1
-  m_defaultScale: 0.26261574
+  m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1181.5001, y: 593.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Unity\\Proyectos\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity\\proyectos\\my project\\assets\\scripts\\menu\\audioback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\audioback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Unity\\Proyectos\\My project\\assets\\scripts\\modelsript\\buttonsdesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modelsript\\buttonsdesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity\\proyectos\\my project\\assets\\scripts\\menu\\audioback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\audioback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Proyectos\\My project\\Library\\PackageCache\\com.unity.render-pipelines.universal@87d5294b44e1\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AudioBack.cs",
               "DocumentMoniker": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\Menu\\AudioBack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\AudioBack.cs",
@@ -47,15 +47,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ButtonsDesp.cs",
               "DocumentMoniker": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
               "ToolTip": "D:\\Unity\\Proyectos\\My project\\Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
               "RelativeToolTip": "Assets\\Scripts\\ModelSript\\ButtonsDesp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBQwBgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T21:08:49.742Z"
+              "WhenOpened": "2025-06-21T21:08:49.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
